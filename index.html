@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/trevo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Simulador Mega-Sena</title>
+</head>
+<body>
+    <header>
+        <h1>🍀 Simulador Mega-Sena 🍀</h1>
+        <p>Gere seus números da sorte!</p>
+    </header>
+
+    <main>
+        <div class="bolas-container" role="region" aria-label="Números sorteados">
+            <div class="bola vazia" aria-label="Bola 1">?</div>
+            <div class="bola vazia" aria-label="Bola 2">?</div>
+            <div class="bola vazia" aria-label="Bola 3">?</div>
+            <div class="bola vazia" aria-label="Bola 4">?</div>
+            <div class="bola vazia" aria-label="Bola 5">?</div>
+            <div class="bola vazia" aria-label="Bola 6">?</div>
+        </div>
+
+        <div class="botoes-container">
+            <button class="btn-gerar" id="btnGerar" aria-label="Sortear números da Mega-Sena">
+                Sortear
+            </button>
+            <button class="btn-copiar" id="btnCopiar" disabled aria-label="Copiar números para área de transferência">
+                Copiar
+            </button>
+        </div>
+
+        <div class="mensagem" id="mensagem" role="alert" aria-live="polite"></div>
+    </main>
+
+    <footer>
+        <p>Simulador Mega-Sena • Os números são gerados aleatoriamente de 1 a 60.</p>
+        <p>Boa sorte! 🎰</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
