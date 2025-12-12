@@ -1,5 +1,10 @@
-🍀 Simulador de Mega-Sena – Gerador de Números da Sorte
+<div align="center">
+🍀 Simulador de Mega-Sena — Gerador de Números da Sorte 🍀
+<br>
+</div> <br>
 
-Este projeto é um simulador interativo da Mega-Sena desenvolvido com HTML, CSS e JavaScript, permitindo ao usuário gerar automaticamente uma combinação aleatória de 6 números entre 1 e 60, seguindo o padrão oficial da loteria.
+![Simulador Mega-Sena](assets/read-me.png)
 
-A interface apresenta uma experiência moderna e animada, com efeitos visuais nas bolinhas, rolagem numérica simulando sorteio real, animação de revelação dos números e confetes comemorativos ao final do sorteio.
+Um simulador interativo da Mega-Sena que gera automaticamente 6 números únicos entre 1 e 60, seguindo o formato oficial do sorteio.
+
+O projeto traz uma interface moderna, responsiva e animada, com rotação dos números, revelação dinâmica e efeitos de confete ao final do sorteio, proporcionando uma experiência mais divertida e imersiva ao usuário.
