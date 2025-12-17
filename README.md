@@ -24,4 +24,4 @@ O projeto traz uma interface responsiva e animada, com rotação dos números, r
  
 ## 🖥️ Desenvolvedor
 
-### LinkedIn: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
+### 🔵 LinkedIn: [Gustavo Correa](https://www.linkedin.com/in/gustavo-chauar-correa-946168269/)
